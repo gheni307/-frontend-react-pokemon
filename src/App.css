@@ -1,0 +1,40 @@
+.topMenu{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightpink;
+}
+
+.pokemon{
+    width: 40%;
+    height: 280px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    box-shadow: 1px 10px 10px rgba(0.3,0.3,0.3,0.3);
+}
+h3{
+    margin: 5px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: lightpink;
+}
+
+p{
+    margin: 5px;
+}
+button{
+    margin: 10px;
+}
+.pokemons{
+    width: 33%;
+    float: left;
+
+}
